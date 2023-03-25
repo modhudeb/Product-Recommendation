@@ -1,6 +1,6 @@
 # Product-Recommendation
 
-<h3>There are two files:
+<b>There are two files:
 1) preprocess (All preprocessing part)
 2) recom_model (Recommendation Model)
 
